@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97e5a26f-eabd-4cea-a313-027b2ba63bc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Avaliacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diretor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Genero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProjFilmeBancoMongo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjFilmeBancoMongo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Filme.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bJTsHaD67MsR1A0dyLCar6kiNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Filme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjFilmeBancoMongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjFilmeBancoMongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Filme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e5a26f-eabd-4cea-a313-027b2ba63bc4" name="Default Changelist" comment="" />
+      <created>1555098110314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555098110314</updated>
+      <workItem from="1588349403327" duration="157000" />
+      <workItem from="1590689210594" duration="10486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="161" key="#xdebugger.evaluate" timestamp="1590700345642">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="524" y="161" key="#xdebugger.evaluate/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700345642" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1588349558429">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588349558429" />
+    <state width="1537" height="429" key="GridCell.Tab.0.bottom" timestamp="1590700460033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="429" key="GridCell.Tab.0.bottom/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700460033" />
+    <state width="1537" height="429" key="GridCell.Tab.0.center" timestamp="1590700460033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="429" key="GridCell.Tab.0.center/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700460033" />
+    <state width="1537" height="429" key="GridCell.Tab.0.left" timestamp="1590700460033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="429" key="GridCell.Tab.0.left/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700460033" />
+    <state width="1537" height="429" key="GridCell.Tab.0.right" timestamp="1590700460033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="429" key="GridCell.Tab.0.right/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700460033" />
+    <state width="1537" height="273" key="GridCell.Tab.1.bottom" timestamp="1590700351861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="273" key="GridCell.Tab.1.bottom/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700351861" />
+    <state width="1537" height="273" key="GridCell.Tab.1.center" timestamp="1590700351860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="273" key="GridCell.Tab.1.center/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700351860" />
+    <state width="1537" height="273" key="GridCell.Tab.1.left" timestamp="1590700351860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="273" key="GridCell.Tab.1.left/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700351860" />
+    <state width="1537" height="273" key="GridCell.Tab.1.right" timestamp="1590700351861">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1537" height="273" key="GridCell.Tab.1.right/0.0.1536.834/-1366.95.1366.738@0.0.1536.834" timestamp="1590700351861" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjFilmeBancoMongo$Main.coverage" NAME="Main Coverage Results" MODIFIED="1590700351844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
