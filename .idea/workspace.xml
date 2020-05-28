@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e5a26f-eabd-4cea-a313-027b2ba63bc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Avaliacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diretor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Genero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjFilmeBancoMongo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjFilmeBancoMongo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filme.py" beforeDir="false" afterPath="$PROJECT_DIR$/Filme.py" afterDir="false" />
-    </list>
+    <list default="true" id="97e5a26f-eabd-4cea-a313-027b2ba63bc4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555098110314</updated>
       <workItem from="1588349403327" duration="157000" />
-      <workItem from="1590689210594" duration="10486000" />
+      <workItem from="1590689210594" duration="11149000" />
     </task>
     <servers />
   </component>
